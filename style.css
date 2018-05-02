@@ -1,0 +1,17 @@
+/*
+Theme Name:     blackbird-demo-child
+Theme URI:      http://underscores.me/
+Description:    Child theme for the Blackbird Demo theme
+Author:         N/A
+Author URI:     N/A
+Template:       blackbird-demo
+Version:        1.0.0
+*/
+
+@import url("../blackbird-demo/style.css");
+
+
+.home #banner {
+    background-color: #ff0051 !important;
+    opacity: 1 !important;
+}
